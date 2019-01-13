@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "85656817295",
+    "firebase_url": "https://ayaam-634fb.firebaseio.com",
+    "project_id": "ayaam-634fb",
+    "storage_bucket": "ayaam-634fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85656817295:android:5b89165ce5395752",
+        "android_client_info": {
+          "package_name": "com.technohack.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85656817295-8rgj8ljkg3i07skpmpm362t9qljiog24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technohack.googlesignindemo",
+            "certificate_hash": "62215a9cdb0d5d6f8a76c9e9e675486069c3a4e9"
+          }
+        },
+        {
+          "client_id": "85656817295-qqqsmlddtrgh4b0sdn637j9917lgod6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4bAvdcN9fSLli0WQ4qtz9ZbpN9n3kwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85656817295-qqqsmlddtrgh4b0sdn637j9917lgod6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
